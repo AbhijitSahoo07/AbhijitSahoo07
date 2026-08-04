@@ -18,8 +18,8 @@
 🛠 Tech Stack
 
 Python • Java • SQL
-LangChain • LangGraph • Gemini API
-Pandas • NumPy • Scikit-learn
+LangChain • LangGraph • LangSmitch • Gemini API 
+Machine Learning • Deep Learning • Large Language models • Pandas • NumPy • Scikit-learn
 React • Tailwind CSS
 Git • GitHub
 
